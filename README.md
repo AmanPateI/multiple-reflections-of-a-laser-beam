@@ -15,3 +15,6 @@ normal line at the point of incidence.
 
 Takes a single command line argument that represents the initial reflection’s x location along the AB segment 
 and calculates the number of times the beam is reflected off an internal surface of the white cell before exiting. 
+
+
+
